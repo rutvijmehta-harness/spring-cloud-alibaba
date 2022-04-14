@@ -71,7 +71,7 @@ public class SentinelWebAutoConfiguration implements WebMvcConfigurer {
 			SentinelWebMvcConfig sentinelWebMvcConfig) {
 		return new SentinelWebInterceptor(sentinelWebMvcConfig);
 	}
-
+	// This is a test comment
 	@Bean
 	@ConditionalOnProperty(name = "spring.cloud.sentinel.filter.enabled",
 			matchIfMissing = true)
