@@ -665,6 +665,7 @@ public class NacosDiscoveryProperties {
 		while (matcher.find()) {
 			matcher.appendReplacement(sb, matcher.group(1).toUpperCase());
 		}
+		// This is a test comment.
 		matcher.appendTail(sb);
 		return sb.toString();
 	}
