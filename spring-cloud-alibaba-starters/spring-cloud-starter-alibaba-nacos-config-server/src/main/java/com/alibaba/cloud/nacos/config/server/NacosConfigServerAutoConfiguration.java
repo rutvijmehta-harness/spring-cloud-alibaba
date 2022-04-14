@@ -27,7 +27,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Nacos Config Server Auto-Configuration.
+ * Nacos Config Server Auto-Configuration. - comment 2
  *
  * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
  * @since 0.2.0
