@@ -340,6 +340,6 @@
                 </repository>
             </distributionManagement>
         </profile>
-    </profiles>
+    </profiles> 
 
 </project>
