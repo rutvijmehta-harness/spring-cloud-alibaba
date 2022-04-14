@@ -6,7 +6,7 @@
  * You may obtain a copy of the License at
  *
  *      https://www.apache.org/licenses/LICENSE-2.0
- * - test comment trigger ti -
+ * 
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -210,7 +210,7 @@ public class NacosDiscoveryProperties {
 
 	/**
 	 * Whether to enable nacos failure tolerance. If enabled, nacos will return cached
-	 * values when exceptions occur.
+	 * values when exceptions occur. Test comment.
 	 */
 	private boolean failureToleranceEnabled;
 
